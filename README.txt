@@ -1,4 +1,4 @@
-This is a bee origin datapack for The Origin mod (fabric)
+This is a bee origin datapack. The Origin mod (fabric) is required for this to work
 
 POWERS:
 
@@ -14,5 +14,7 @@ Rain- blindness and slowness in rain
 
 ?
 Death- insta-kills nearest person but also dies instantly (secondary key)
+
+Only add the second zip file in your datapacks folder
 
 If there's any problems with the origin, use the issues tab, or DM me on Twitter @sakivsiil or on Reddit u/sakisiil
