@@ -14,6 +14,7 @@ Rain- blindness and slowness in rain
 
 ?
 Death- insta-kills nearest person but also dies instantly (secondary key)
+Slow-fall- falls slowly
 
 Only add the second zip file in your datapacks folder
 
