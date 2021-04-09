@@ -11,7 +11,7 @@ Bee friends- bees don't attack you if you punch them, don't try to take their ho
 -
 No food- can't eat any normal food
 Lifespan- 3 hearts less health
-Rain- blindness and slowness in rain
+Rain- blindness, slowness and weakness in rain
 Fast Metabolism- get hungry faster
 
 ?
