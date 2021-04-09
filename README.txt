@@ -5,16 +5,16 @@ POWERS:
 +
 Poisonous- inflicts poison to target for 2,5 seconds
 Flowery- regenerates health and gets saturation near multiple flowers
-Flight- basically toggle levitation + slow fall (primary key)
+Flight- basically toggle levitation (primary key)
 
 -
-No food- can't eat any normal food
 Lifespan- 3 hearts less health
-Rain- blindness, slowness and weakness in rain
+Rain- hunger, slowness and weakness in rain
 
 ?
 Death- insta-kills nearest person but also dies instantly (secondary key)
-Slow-fall- falls slowly
+Slow-fall- falls slowly (mostly required for the flight power to work, but also fits the bee origin)
+No food- can't eat any normal food, instead use the "flowery" power
 
 Only add the second zip file in your datapacks folder
 
