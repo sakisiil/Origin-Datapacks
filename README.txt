@@ -4,11 +4,11 @@ POWERS:
 
 +
 Poisonous- inflicts poison to target for 2,5 seconds
-Flowery- regenerates health near multiple flowers
+Flowery- regenerates health and gets saturation near multiple flowers
 Flight- basically toggle levitation + slow fall (primary key)
 
 -
-Vegetarian- can't eat meat
+No food- can't eat any normal food
 Lifespan- 3 hearts less health
 Rain- blindness and slowness in rain
 
