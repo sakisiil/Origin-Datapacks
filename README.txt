@@ -6,13 +6,11 @@ POWERS:
 Poisonous- inflicts poison to target for 2,5 seconds
 Flowery- regenerates health and gets saturation near multiple flowers
 Flight- basically toggle levitation + slow fall (primary key)
-Bee friends- bees don't attack you if you punch them, don't try to take their honey or break their hives though, they will attack you.
 
 -
 No food- can't eat any normal food
-Lifespan- 4 hearts less health
+Lifespan- 3 hearts less health
 Rain- blindness, slowness and weakness in rain
-Fast Metabolism- get hungry faster
 
 ?
 Death- insta-kills nearest person but also dies instantly (secondary key)
