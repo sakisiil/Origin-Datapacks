@@ -6,6 +6,7 @@ POWERS:
 Poisonous- inflicts poison to target for 2,5 seconds
 Flowery- regenerates health and gets saturation near multiple flowers
 Flight- basically toggle levitation + slow fall (primary key)
+Bee friends- bees never attack you
 
 -
 No food- can't eat any normal food
