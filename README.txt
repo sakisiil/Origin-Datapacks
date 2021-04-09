@@ -6,7 +6,7 @@ POWERS:
 Poisonous- inflicts poison to target for 2,5 seconds
 Flowery- regenerates health and gets saturation near multiple flowers
 Flight- basically toggle levitation + slow fall (primary key)
-Bee friends- bees don't attack you if you punch them, don't try to take their honey though
+Bee friends- bees don't attack you if you punch them, don't try to take their honey or break their hives though, they will attack you.
 
 -
 No food- can't eat any normal food
