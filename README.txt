@@ -25,4 +25,21 @@ The updates for beeupdate.zip:
 Saturation near flowers is now saturation 2 instead of 4 (btw you have to be at least near 9 flowers for it to work)
 Poison is now Poison 3 for 1,5 seconds
 
+
+I also added a raccoon origin datapack!
+
++
+Speed and strength at night
+Night vision
+Extra inventory (drops after death)
+Can climb
+Immune to poison and hunger
+
+-
+Less health (-2 hearts)
+Weakness and slowness during day
+Can't open trapdoors, doors and gates
+Can only eat trash food (
+
+
 If there's any problems with the origin, use the issues tab, or DM me on Twitter @sakivsiil or on Reddit u/sakisiil
