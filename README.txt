@@ -33,13 +33,15 @@ Speed and strength at night
 Night vision
 Extra inventory (drops after death)
 Can climb
+Can reach further
 Immune to poison and hunger
 
 -
 Less health (-2 hearts)
+Gets hungry faster
 Weakness and slowness during day
 Can't open trapdoors, doors and gates
-Can only eat trash food (
+Can only eat trash food (everything that gives 1 saturation + rotten flesh)
 
 
 If there's any problems with the origin, use the issues tab, or DM me on Twitter @sakivsiil or on Reddit u/sakisiil
