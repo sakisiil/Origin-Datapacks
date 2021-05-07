@@ -19,11 +19,29 @@ No food- can't eat any normal food, instead use the "flowery" power
 
 Only add the second zip file in your datapacks folder
 
-UPDATE! The second bee datapack file, beeupdate.zip, is an updated version of the origin. It was pretty op so i tried to make it better, the OP one is still there though. 
-The updates for beeupdate.zip:
+UPDATED ORIGIN: Evolved Bumblebee
+I edited the bumblebee origin a bit and gave it more powers and more setbacks, so if you want to kind of "level up" your origins, then this is basically the "evolved" version of the bumblebee origin.
 
-Saturation near flowers is now saturation 2 instead of 4 (btw you have to be at least near 9 flowers for it to work)
-Poison is now Poison 3 for 1,5 seconds
+These are the edited and new powers:
+
+Flight: The flight is slightly faster. Also, instead of the primary key, you use your jump key for levitation. That also means you can't normally jump anymore. 
+Bloom: The saturation is slower, however, honey is now edible and it also gives speed 1 for 30 seconds and strength 1 for 10 seconds 
+Poisonous: Same, but if another player attacks you, they have a 10% chance to get poisoned
+NEW: Plants: You don't take damage from berry bushes and cacti, because you've learned to navigate these plants
+NEW: Climbing: You can constantly climb like a bug 
+
+Lifespan: no changes 
+Water: instead of weakness, slowness and hunger, you now just get damage, like Enderian 
+Nighttime: The weakness, slowness and hunger still exist, but only at night 
+NEW: Flames: Fire does 1.75x more damage 
+NEW: Too hot: Hot biomes give  mining fatigue 1 
+
+Death: Insta-kills you and the closest player to you (secondary)
+No food: You can't eat normal food, except for honey 
+NEW: Smol: You're now 1 block tall 
+NEW: Bees!: You can spawn in 5 bees (but do NOT hit them)(primary)
+
+!!! Now requires Pehkui and Extra origins to work!
 
 
 I also added a raccoon origin datapack!
