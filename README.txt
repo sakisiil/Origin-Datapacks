@@ -61,5 +61,16 @@ Weakness and slowness during day
 Can't open trapdoors, doors and gates
 Can only eat trash food (everything that gives 1 saturation + rotten flesh)
 
+Bumblebee 1.17
+Night- If you go outside at night, you're gonna get weakness 3 and slowness 3 
+Poison- You give poison 3 if you hit or shoot anyone that isn't undead 
+Bloom- You get saturation near at least 9 flowers, you can not eat normal food. 
+Lives- You have 3 hearts less than a normal player
+Flight- Toggle primary key to levitate 
+Death- Death button. That's it. (Only kills the bee origin user)
+Water- You take damage in water
+NEW! Short haha- You're 1 block tall. (THIS ONLY WORKS WITH EXTRAORIGINS AND PEHKUI INSTALLED! Everything else works with only Origins mod)
+
+
 
 If there's any problems with the origin, use the issues tab, or DM me on Twitter @sakivsiil or on Reddit u/sakisiil
