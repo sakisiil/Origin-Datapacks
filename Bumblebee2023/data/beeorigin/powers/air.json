@@ -1,0 +1,20 @@
+{
+    "hidden": true,
+    "type": "origins:modify_break_speed",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 5.3
+    },
+    "block_condition": {
+        "type": "origins:block",
+        "inverted": true,
+        "block": "air"
+    },
+    "condition": {
+        "type": "origins:block_collision",
+        "inverted": true,
+        "offset_x": 0,
+        "offset_y": -0.1,
+        "offset_z": 0
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_swim_speed",
+    "modifier": {
+        "operation": "addition",
+        "value": -0.01
+    },
+	"name": "Swimming Pro",
+	"description": "Watch a video of a bumblebee swimming theyre so silly :D Anyway you're a slowww swimmer"
+}
